@@ -965,7 +965,7 @@ def main():
     app.run_webhook(
         listen="0.0.0.0",
         port=PORT,
-        webhook_url="https://my-telegram-bot-llwb.onrender.com"
+        webhook_url="https://my-telegram-bot-XXXX.onrender.com"
     )
 
 if __name__ == '__main__':
